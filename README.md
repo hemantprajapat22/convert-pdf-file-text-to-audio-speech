@@ -29,11 +29,4 @@ This project converts PDF files into audio speech using Text-to-Speech (TTS) tec
 4. Convert text into speech  
 5. Save/play audio  
 
----
 
-## 💻 Installation
-
-```bash
-git clone https://github.com/hemantprajapat22/convert-pdf-file-text-to-audio-speech.git
-cd convert-pdf-file-text-to-audio-speech
-pip install -r requirements.txt
